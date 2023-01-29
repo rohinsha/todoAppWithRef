@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.mainDiv {
+  padding-bottom: 30px;
+  border-bottom: 1px solid black;
+}
+.customBtn {
+  margin-left: 20px;
+  background-color: black;
+  color: white;
+}
